@@ -1,0 +1,150 @@
+# [ INFO ] | {"params": {"task": "Buy milk"}, "msg": "In show tasks utils"}
+
+# [ INFO ] | {"params": {"task": "Buy milk"}, "msg": "In create_user_and_channel utils"}
+
+# [ INFO ] | {"response_type": "in_channel", "text": "No TODOs"}
+
+# [ INFO ] | {"params": {"title": "Buy groceries", "description": "Milk, eggs, bread"}, "msg": "In show tasks utils"}
+
+# [ INFO ] | {"params": {"title": "Buy groceries", "description": "Milk, eggs, bread"}, "msg": "In create_user_and_channel utils"}
+
+# [ INFO ] | {"response_type": "in_channel", "text": "No TODOs"}
+
+# [ INFO ] | {"params": {"token": "rqybfVYfujAk67qmr6Hgl6Mn", "team_id": "T08LGM1867L", "team_domain": "mcposs", "channel_id": "D09984G6BDL", "channel_name": "directmessage", "user_id": "U08LGM18C7L", "user_name": "chitranshsanjay", "command": "/todos", "text": "i am testing by monady", "api_app_id": "A09A2B9ADDW", "is_enterprise_install": "false", "response_url": "https://hooks.slack.com/commands/T08LGM1867L/9372453242800/1755Qz2tPJhAGPubrvHBaCDL", "trigger_id": "9372453244784.8696715278258.0aef19de11efbfbbfa15588ffeb3f766"}, "msg": "In show tasks utils"}
+
+# [ INFO ] | {"params": {"token": "rqybfVYfujAk67qmr6Hgl6Mn", "team_id": "T08LGM1867L", "team_domain": "mcposs", "channel_id": "D09984G6BDL", "channel_name": "directmessage", "user_id": "U08LGM18C7L", "user_name": "chitranshsanjay", "command": "/todos", "text": "i am testing by monady", "api_app_id": "A09A2B9ADDW", "is_enterprise_install": "false", "response_url": "https://hooks.slack.com/commands/T08LGM1867L/9372453242800/1755Qz2tPJhAGPubrvHBaCDL", "trigger_id": "9372453244784.8696715278258.0aef19de11efbfbbfa15588ffeb3f766"}, "msg": "In create_user_and_channel utils"}
+
+# [ INFO ] | {"response_type": "in_channel", "text": "No TODOs"}
+
+# [ INFO ] | {"params": {"token": "rqybfVYfujAk67qmr6Hgl6Mn", "team_id": "T08LGM1867L", "team_domain": "mcposs", "channel_id": "D09984G6BDL", "channel_name": "directmessage", "user_id": "U08LGM18C7L", "user_name": "chitranshsanjay", "command": "/toadd", "text": "i am testing", "api_app_id": "A09A2B9ADDW", "is_enterprise_install": "false", "response_url": "https://hooks.slack.com/commands/T08LGM1867L/9372498084368/7jJUms5P0MZ4AwucGbzK9bJi", "trigger_id": "9372498088528.8696715278258.f7d53f593928bca993405aa3333adf04"}, "msg": "In add task utils"}
+
+# [ INFO ] | {"params": {"token": "rqybfVYfujAk67qmr6Hgl6Mn", "team_id": "T08LGM1867L", "team_domain": "mcposs", "channel_id": "D09984G6BDL", "channel_name": "directmessage", "user_id": "U08LGM18C7L", "user_name": "chitranshsanjay", "command": "/toadd", "text": "i am testing", "api_app_id": "A09A2B9ADDW", "is_enterprise_install": "false", "response_url": "https://hooks.slack.com/commands/T08LGM1867L/9372498084368/7jJUms5P0MZ4AwucGbzK9bJi", "trigger_id": "9372498088528.8696715278258.f7d53f593928bca993405aa3333adf04"}, "msg": "In create_user_and_channel utils"}
+
+# [ INFO ] | {"response_type": "in_channel", "text": "Added TODO for 'i am testing'."}
+
+# [ INFO ] | {"params": {"token": "rqybfVYfujAk67qmr6Hgl6Mn", "team_id": "T08LGM1867L", "team_domain": "mcposs", "channel_id": "D09984G6BDL", "channel_name": "directmessage", "user_id": "U08LGM18C7L", "user_name": "chitranshsanjay", "command": "/todos", "text": "", "api_app_id": "A09A2B9ADDW", "is_enterprise_install": "false", "response_url": "https://hooks.slack.com/commands/T08LGM1867L/9339828968483/A2tmKypKRdHmh3FPz9AJp3Lv", "trigger_id": "9339828978595.8696715278258.19106e99b1383407e04415d6afd9a79c"}, "msg": "In show tasks utils"}
+
+# [ INFO ] | {"params": {"token": "rqybfVYfujAk67qmr6Hgl6Mn", "team_id": "T08LGM1867L", "team_domain": "mcposs", "channel_id": "D09984G6BDL", "channel_name": "directmessage", "user_id": "U08LGM18C7L", "user_name": "chitranshsanjay", "command": "/todos", "text": "", "api_app_id": "A09A2B9ADDW", "is_enterprise_install": "false", "response_url": "https://hooks.slack.com/commands/T08LGM1867L/9339828968483/A2tmKypKRdHmh3FPz9AJp3Lv", "trigger_id": "9339828978595.8696715278258.19106e99b1383407e04415d6afd9a79c"}, "msg": "In create_user_and_channel utils"}
+
+# [ INFO ] | {"response_type": "in_channel", "text": "- i am testing"}
+
+# [ INFO ] | {"params": {"token": "rqybfVYfujAk67qmr6Hgl6Mn", "team_id": "T08LGM1867L", "team_domain": "mcposs", "channel_id": "D09984G6BDL", "channel_name": "directmessage", "user_id": "U08LGM18C7L", "user_name": "chitranshsanjay", "command": "/done", "text": "", "api_app_id": "A09A2B9ADDW", "is_enterprise_install": "false", "response_url": "https://hooks.slack.com/commands/T08LGM1867L/9345272005877/xQ9IUab9b0x5kNge6gaRjAAB", "trigger_id": "9345272005925.8696715278258.eb749bb3aa88b67ef968a6abae71cd5e"}, "msg": "In remove task utils"}
+
+# [ INFO ] | {"params": {"token": "rqybfVYfujAk67qmr6Hgl6Mn", "team_id": "T08LGM1867L", "team_domain": "mcposs", "channel_id": "D09984G6BDL", "channel_name": "directmessage", "user_id": "U08LGM18C7L", "user_name": "chitranshsanjay", "command": "/done", "text": "", "api_app_id": "A09A2B9ADDW", "is_enterprise_install": "false", "response_url": "https://hooks.slack.com/commands/T08LGM1867L/9345272005877/xQ9IUab9b0x5kNge6gaRjAAB", "trigger_id": "9345272005925.8696715278258.eb749bb3aa88b67ef968a6abae71cd5e"}, "msg": "In create_user_and_channel utils"}
+
+# [ INFO ] | {"response_type": "in_channel", "text": "'' is not present in TODO."}
+
+# [ INFO ] | {"params": {"token": "rqybfVYfujAk67qmr6Hgl6Mn", "team_id": "T08LGM1867L", "team_domain": "mcposs", "channel_id": "D09984G6BDL", "channel_name": "directmessage", "user_id": "U08LGM18C7L", "user_name": "chitranshsanjay", "command": "/done", "text": "- i am testing", "api_app_id": "A09A2B9ADDW", "is_enterprise_install": "false", "response_url": "https://hooks.slack.com/commands/T08LGM1867L/9349518886548/H3j8fGhmqTTVMkZqGsHlPCX6", "trigger_id": "9349518938420.8696715278258.6ddd346213b31cec2aafe6484b6db534"}, "msg": "In remove task utils"}
+
+# [ INFO ] | {"params": {"token": "rqybfVYfujAk67qmr6Hgl6Mn", "team_id": "T08LGM1867L", "team_domain": "mcposs", "channel_id": "D09984G6BDL", "channel_name": "directmessage", "user_id": "U08LGM18C7L", "user_name": "chitranshsanjay", "command": "/done", "text": "- i am testing", "api_app_id": "A09A2B9ADDW", "is_enterprise_install": "false", "response_url": "https://hooks.slack.com/commands/T08LGM1867L/9349518886548/H3j8fGhmqTTVMkZqGsHlPCX6", "trigger_id": "9349518938420.8696715278258.6ddd346213b31cec2aafe6484b6db534"}, "msg": "In create_user_and_channel utils"}
+
+# [ INFO ] | {"response_type": "in_channel", "text": "'- i am testing' is not present in TODO."}
+
+# [ INFO ] | {"params": {"token": "rqybfVYfujAk67qmr6Hgl6Mn", "team_id": "T08LGM1867L", "team_domain": "mcposs", "channel_id": "D09984G6BDL", "channel_name": "directmessage", "user_id": "U08LGM18C7L", "user_name": "chitranshsanjay", "command": "/done", "text": "i am testing", "api_app_id": "A09A2B9ADDW", "is_enterprise_install": "false", "response_url": "https://hooks.slack.com/commands/T08LGM1867L/9372537072960/GK5YyI1LoANXHb4y64fQc3cF", "trigger_id": "9372537081360.8696715278258.a760bf2d452d26167002caa24cebceb9"}, "msg": "In remove task utils"}
+
+# [ INFO ] | {"params": {"token": "rqybfVYfujAk67qmr6Hgl6Mn", "team_id": "T08LGM1867L", "team_domain": "mcposs", "channel_id": "D09984G6BDL", "channel_name": "directmessage", "user_id": "U08LGM18C7L", "user_name": "chitranshsanjay", "command": "/done", "text": "i am testing", "api_app_id": "A09A2B9ADDW", "is_enterprise_install": "false", "response_url": "https://hooks.slack.com/commands/T08LGM1867L/9372537072960/GK5YyI1LoANXHb4y64fQc3cF", "trigger_id": "9372537081360.8696715278258.a760bf2d452d26167002caa24cebceb9"}, "msg": "In create_user_and_channel utils"}
+
+# [ INFO ] | {"response_type": "in_channel", "text": "Removed TODO for 'i am testing'."}
+
+# [ INFO ] | {"params": {"token": "rqybfVYfujAk67qmr6Hgl6Mn", "team_id": "T08LGM1867L", "team_domain": "mcposs", "channel_id": "D09984G6BDL", "channel_name": "directmessage", "user_id": "U08LGM18C7L", "user_name": "chitranshsanjay", "command": "/toadd", "text": "i am  working for ask bot to add list and complete by monday", "api_app_id": "A09A2B9ADDW", "is_enterprise_install": "false", "response_url": "https://hooks.slack.com/commands/T08LGM1867L/9333684009399/D7kDiiq43G1CFEuPeiEFjm2d", "trigger_id": "9333684089175.8696715278258.43891f99012a0d36c698ce6dc51b67af"}, "msg": "In add task utils"}
+
+# [ INFO ] | {"params": {"token": "rqybfVYfujAk67qmr6Hgl6Mn", "team_id": "T08LGM1867L", "team_domain": "mcposs", "channel_id": "D09984G6BDL", "channel_name": "directmessage", "user_id": "U08LGM18C7L", "user_name": "chitranshsanjay", "command": "/toadd", "text": "i am  working for ask bot to add list and complete by monday", "api_app_id": "A09A2B9ADDW", "is_enterprise_install": "false", "response_url": "https://hooks.slack.com/commands/T08LGM1867L/9333684009399/D7kDiiq43G1CFEuPeiEFjm2d", "trigger_id": "9333684089175.8696715278258.43891f99012a0d36c698ce6dc51b67af"}, "msg": "In create_user_and_channel utils"}
+
+# [ INFO ] | {"response_type": "in_channel", "text": "Added TODO for 'i am  working for ask bot to add list and complete by monday'."}
+
+# [ INFO ] | {"params": {"token": "rqybfVYfujAk67qmr6Hgl6Mn", "team_id": "T08LGM1867L", "team_domain": "mcposs", "channel_id": "D09984G6BDL", "channel_name": "directmessage", "user_id": "U08LGM18C7L", "user_name": "chitranshsanjay", "command": "/todos", "text": "", "api_app_id": "A09A2B9ADDW", "is_enterprise_install": "false", "response_url": "https://hooks.slack.com/commands/T08LGM1867L/9347667173926/e6kZq00yMmyc7fbOkCCvuoKy", "trigger_id": "9347667217014.8696715278258.5e3841c7b886e1d213f8801d6306b481"}, "msg": "In show tasks utils"}
+
+# [ INFO ] | {"params": {"token": "rqybfVYfujAk67qmr6Hgl6Mn", "team_id": "T08LGM1867L", "team_domain": "mcposs", "channel_id": "D09984G6BDL", "channel_name": "directmessage", "user_id": "U08LGM18C7L", "user_name": "chitranshsanjay", "command": "/todos", "text": "", "api_app_id": "A09A2B9ADDW", "is_enterprise_install": "false", "response_url": "https://hooks.slack.com/commands/T08LGM1867L/9347667173926/e6kZq00yMmyc7fbOkCCvuoKy", "trigger_id": "9347667217014.8696715278258.5e3841c7b886e1d213f8801d6306b481"}, "msg": "In create_user_and_channel utils"}
+
+# [ INFO ] | {"response_type": "in_channel", "text": "- i am  working for ask bot to add list and complete by monday"}
+
+# [ INFO ] | {"params": {"token": "rqybfVYfujAk67qmr6Hgl6Mn", "team_id": "T08LGM1867L", "team_domain": "mcposs", "channel_id": "D09984G6BDL", "channel_name": "directmessage", "user_id": "U08LGM18C7L", "user_name": "chitranshsanjay", "command": "/todos", "text": "", "api_app_id": "A09A2B9ADDW", "is_enterprise_install": "false", "response_url": "https://hooks.slack.com/commands/T08LGM1867L/9352827510626/K4yBs2x0wp1WBPzawyBI6UCB", "trigger_id": "9352827510722.8696715278258.c2d99eaf94382236afb9ebae7b8db98a"}, "msg": "In show tasks utils"}
+
+# [ INFO ] | {"params": {"token": "rqybfVYfujAk67qmr6Hgl6Mn", "team_id": "T08LGM1867L", "team_domain": "mcposs", "channel_id": "D09984G6BDL", "channel_name": "directmessage", "user_id": "U08LGM18C7L", "user_name": "chitranshsanjay", "command": "/todos", "text": "", "api_app_id": "A09A2B9ADDW", "is_enterprise_install": "false", "response_url": "https://hooks.slack.com/commands/T08LGM1867L/9352827510626/K4yBs2x0wp1WBPzawyBI6UCB", "trigger_id": "9352827510722.8696715278258.c2d99eaf94382236afb9ebae7b8db98a"}, "msg": "In create_user_and_channel utils"}
+
+# [ INFO ] | {"response_type": "in_channel", "text": "- i am  working for ask bot to add list and complete by monday"}
+
+# [ INFO ] | {"params": {"token": "rqybfVYfujAk67qmr6Hgl6Mn", "team_id": "T08LGM1867L", "team_domain": "mcposs", "channel_id": "D09984G6BDL", "channel_name": "directmessage", "user_id": "U08LGM18C7L", "user_name": "chitranshsanjay", "command": "/toadd", "text": "i have meet with Madan in sep 25", "api_app_id": "A09A2B9ADDW", "is_enterprise_install": "false", "response_url": "https://hooks.slack.com/commands/T08LGM1867L/9354644500438/GdwZKqaaApBlW96Gdi8N4Jmy", "trigger_id": "9354644520774.8696715278258.7ee331030b92fb517551907ceb301491"}, "msg": "In add task utils"}
+
+# [ INFO ] | {"params": {"token": "rqybfVYfujAk67qmr6Hgl6Mn", "team_id": "T08LGM1867L", "team_domain": "mcposs", "channel_id": "D09984G6BDL", "channel_name": "directmessage", "user_id": "U08LGM18C7L", "user_name": "chitranshsanjay", "command": "/toadd", "text": "i have meet with Madan in sep 25", "api_app_id": "A09A2B9ADDW", "is_enterprise_install": "false", "response_url": "https://hooks.slack.com/commands/T08LGM1867L/9354644500438/GdwZKqaaApBlW96Gdi8N4Jmy", "trigger_id": "9354644520774.8696715278258.7ee331030b92fb517551907ceb301491"}, "msg": "In create_user_and_channel utils"}
+
+# [ INFO ] | {"response_type": "in_channel", "text": "Added TODO for 'i have meet with Madan in sep 25'."}
+
+# [ INFO ] | {"params": {"token": "rqybfVYfujAk67qmr6Hgl6Mn", "team_id": "T08LGM1867L", "team_domain": "mcposs", "channel_id": "D09984G6BDL", "channel_name": "directmessage", "user_id": "U08LGM18C7L", "user_name": "chitranshsanjay", "command": "/todos", "text": "", "api_app_id": "A09A2B9ADDW", "is_enterprise_install": "false", "response_url": "https://hooks.slack.com/commands/T08LGM1867L/9340697246695/rDUtcZv4a7CTzu9oImTCZEuj", "trigger_id": "9340697246743.8696715278258.aa8972236578a9618594b447c9fa8793"}, "msg": "In show tasks utils"}
+
+# [ INFO ] | {"params": {"token": "rqybfVYfujAk67qmr6Hgl6Mn", "team_id": "T08LGM1867L", "team_domain": "mcposs", "channel_id": "D09984G6BDL", "channel_name": "directmessage", "user_id": "U08LGM18C7L", "user_name": "chitranshsanjay", "command": "/todos", "text": "", "api_app_id": "A09A2B9ADDW", "is_enterprise_install": "false", "response_url": "https://hooks.slack.com/commands/T08LGM1867L/9340697246695/rDUtcZv4a7CTzu9oImTCZEuj", "trigger_id": "9340697246743.8696715278258.aa8972236578a9618594b447c9fa8793"}, "msg": "In create_user_and_channel utils"}
+
+# [ INFO ] | {"response_type": "in_channel", "text": "- i am  working for ask bot to add list and complete by monday\n- i have meet with Madan in sep 25"}
+
+# [ INFO ] | {"params": {"token": "rqybfVYfujAk67qmr6Hgl6Mn", "team_id": "T08LGM1867L", "team_domain": "mcposs", "channel_id": "D09984G6BDL", "channel_name": "directmessage", "user_id": "U08LGM18C7L", "user_name": "chitranshsanjay", "command": "/todos", "text": "", "api_app_id": "A09A2B9ADDW", "is_enterprise_install": "false", "response_url": "https://hooks.slack.com/commands/T08LGM1867L/9427936724690/2KjqRzmgRWVsZwTDsYXmVNGz", "trigger_id": "9427936752386.8696715278258.4b8fb7d890927293cbb91ef8f4a01614"}, "msg": "In show tasks utils"}
+
+# [ INFO ] | {"params": {"token": "rqybfVYfujAk67qmr6Hgl6Mn", "team_id": "T08LGM1867L", "team_domain": "mcposs", "channel_id": "D09984G6BDL", "channel_name": "directmessage", "user_id": "U08LGM18C7L", "user_name": "chitranshsanjay", "command": "/todos", "text": "", "api_app_id": "A09A2B9ADDW", "is_enterprise_install": "false", "response_url": "https://hooks.slack.com/commands/T08LGM1867L/9427936724690/2KjqRzmgRWVsZwTDsYXmVNGz", "trigger_id": "9427936752386.8696715278258.4b8fb7d890927293cbb91ef8f4a01614"}, "msg": "In create_user_and_channel utils"}
+
+# [ INFO ] | {"response_type": "in_channel", "text": "- i am  working for ask bot to add list and complete by monday\n- i have meet with Madan in sep 25"}
+
+# [ INFO ] | {"params": {"token": "rqybfVYfujAk67qmr6Hgl6Mn", "team_id": "T08LGM1867L", "team_domain": "mcposs", "channel_id": "D09984G6BDL", "channel_name": "directmessage", "user_id": "U08LGM18C7L", "user_name": "chitranshsanjay", "command": "/todos", "text": "", "api_app_id": "A09A2B9ADDW", "is_enterprise_install": "false", "response_url": "https://hooks.slack.com/commands/T08LGM1867L/9426121042645/7bkHosWMhNtgujebmWIwSHbI", "trigger_id": "9426121042709.8696715278258.3555bdb66689a5535009e0269b7dfc8a"}, "msg": "In show tasks utils"}
+
+# [ INFO ] | {"params": {"token": "rqybfVYfujAk67qmr6Hgl6Mn", "team_id": "T08LGM1867L", "team_domain": "mcposs", "channel_id": "D09984G6BDL", "channel_name": "directmessage", "user_id": "U08LGM18C7L", "user_name": "chitranshsanjay", "command": "/todos", "text": "", "api_app_id": "A09A2B9ADDW", "is_enterprise_install": "false", "response_url": "https://hooks.slack.com/commands/T08LGM1867L/9426121042645/7bkHosWMhNtgujebmWIwSHbI", "trigger_id": "9426121042709.8696715278258.3555bdb66689a5535009e0269b7dfc8a"}, "msg": "In create_user_and_channel utils"}
+
+# [ INFO ] | {"response_type": "in_channel", "text": "- i am  working for ask bot to add list and complete by monday\n- i have meet with Madan in sep 25"}
+
+# [ INFO ] | {"params": {}, "msg": "In show tasks utils"}
+
+# [ INFO ] | {"params": {}, "msg": "In create_user_and_channel utils"}
+
+# [ INFO ] | {"response_type": "in_channel", "text": "No TODOs"}
+
+# [ INFO ] | {"params": {}, "msg": "In show tasks utils"}
+
+# [ INFO ] | {"params": {}, "msg": "In create_user_and_channel utils"}
+
+# [ INFO ] | {"response_type": "in_channel", "text": "No TODOs"}
+
+# [ INFO ] | {"params": {}, "msg": "In show tasks utils"}
+
+# [ INFO ] | {"params": {}, "msg": "In create_user_and_channel utils"}
+
+# [ INFO ] | {"response_type": "in_channel", "text": "No TODOs"}
+
+# [ INFO ] | {"params": {}, "msg": "In show tasks utils"}
+
+# [ INFO ] | {"params": {}, "msg": "In create_user_and_channel utils"}
+
+# [ INFO ] | {"response_type": "in_channel", "text": "No TODOs"}
+
+# [ INFO ] | {"params": {}, "msg": "In show tasks utils"}
+
+# [ INFO ] | {"params": {}, "msg": "In create_user_and_channel utils"}
+
+# [ INFO ] | {"response_type": "in_channel", "text": "No TODOs"}
+
+# [ INFO ] | {"params": {"token": "rqybfVYfujAk67qmr6Hgl6Mn", "team_id": "T08LGM1867L", "team_domain": "mcposs", "channel_id": "D09984G6BDL", "channel_name": "directmessage", "user_id": "U08LGM18C7L", "user_name": "chitranshsanjay", "command": "/todos", "text": "", "api_app_id": "A09A2B9ADDW", "is_enterprise_install": "false", "response_url": "https://hooks.slack.com/commands/T08LGM1867L/9429331173398/jfmtnI5NYvpgviUPWEbPT0wm", "trigger_id": "9429331224774.8696715278258.65f0f5d3fb6fe81346d77c87082fc308"}, "msg": "In show tasks utils"}
+
+# [ INFO ] | {"params": {"token": "rqybfVYfujAk67qmr6Hgl6Mn", "team_id": "T08LGM1867L", "team_domain": "mcposs", "channel_id": "D09984G6BDL", "channel_name": "directmessage", "user_id": "U08LGM18C7L", "user_name": "chitranshsanjay", "command": "/todos", "text": "", "api_app_id": "A09A2B9ADDW", "is_enterprise_install": "false", "response_url": "https://hooks.slack.com/commands/T08LGM1867L/9429331173398/jfmtnI5NYvpgviUPWEbPT0wm", "trigger_id": "9429331224774.8696715278258.65f0f5d3fb6fe81346d77c87082fc308"}, "msg": "In create_user_and_channel utils"}
+
+# [ INFO ] | {"response_type": "in_channel", "text": "- i am  working for ask bot to add list and complete by monday\n- i have meet with Madan in sep 25"}
+
+# [ INFO ] | {"params": {"token": "rqybfVYfujAk67qmr6Hgl6Mn", "team_id": "T08LGM1867L", "team_domain": "mcposs", "channel_id": "D09984G6BDL", "channel_name": "directmessage", "user_id": "U08LGM18C7L", "user_name": "chitranshsanjay", "command": "/toadd", "text": "james  need to review", "api_app_id": "A09A2B9ADDW", "is_enterprise_install": "false", "response_url": "https://hooks.slack.com/commands/T08LGM1867L/9426211499301/3rWC1RfklzfqC5CuyLJMZnnB", "trigger_id": "9426211499365.8696715278258.db370982e070c3f3fa8b48617e735651"}, "msg": "In add task utils"}
+
+# [ INFO ] | {"params": {"token": "rqybfVYfujAk67qmr6Hgl6Mn", "team_id": "T08LGM1867L", "team_domain": "mcposs", "channel_id": "D09984G6BDL", "channel_name": "directmessage", "user_id": "U08LGM18C7L", "user_name": "chitranshsanjay", "command": "/toadd", "text": "james  need to review", "api_app_id": "A09A2B9ADDW", "is_enterprise_install": "false", "response_url": "https://hooks.slack.com/commands/T08LGM1867L/9426211499301/3rWC1RfklzfqC5CuyLJMZnnB", "trigger_id": "9426211499365.8696715278258.db370982e070c3f3fa8b48617e735651"}, "msg": "In create_user_and_channel utils"}
+
+# [ INFO ] | {"response_type": "in_channel", "text": "Added TODO for 'james  need to review'."}
+
+# [ INFO ] | {"params": {"token": "rqybfVYfujAk67qmr6Hgl6Mn", "team_id": "T08LGM1867L", "team_domain": "mcposs", "channel_id": "D09984G6BDL", "channel_name": "directmessage", "user_id": "U08LGM18C7L", "user_name": "chitranshsanjay", "command": "/todos", "text": "", "api_app_id": "A09A2B9ADDW", "is_enterprise_install": "false", "response_url": "https://hooks.slack.com/commands/T08LGM1867L/9456073135792/nHihBavqhjrLepxmdgd85D42", "trigger_id": "9456073141936.8696715278258.c50d74a4ae56c4141e4b88f94d8ad41a"}, "msg": "In show tasks utils"}
+
+# [ INFO ] | {"params": {"token": "rqybfVYfujAk67qmr6Hgl6Mn", "team_id": "T08LGM1867L", "team_domain": "mcposs", "channel_id": "D09984G6BDL", "channel_name": "directmessage", "user_id": "U08LGM18C7L", "user_name": "chitranshsanjay", "command": "/todos", "text": "", "api_app_id": "A09A2B9ADDW", "is_enterprise_install": "false", "response_url": "https://hooks.slack.com/commands/T08LGM1867L/9456073135792/nHihBavqhjrLepxmdgd85D42", "trigger_id": "9456073141936.8696715278258.c50d74a4ae56c4141e4b88f94d8ad41a"}, "msg": "In create_user_and_channel utils"}
+
+# [ INFO ] | {"response_type": "in_channel", "text": "- i am  working for ask bot to add list and complete by monday\n- i have meet with Madan in sep 25\n- james  need to review"}
+
+# [ INFO ] | {"params": {"token": "rqybfVYfujAk67qmr6Hgl6Mn", "team_id": "T08LGM1867L", "team_domain": "mcposs", "channel_id": "D09984G6BDL", "channel_name": "directmessage", "user_id": "U08LGM18C7L", "user_name": "chitranshsanjay", "command": "/done", "text": "i have meet with Madan in sep 25", "api_app_id": "A09A2B9ADDW", "is_enterprise_install": "false", "response_url": "https://hooks.slack.com/commands/T08LGM1867L/9432666364852/1iqlMXOyIUnE5cYdYL2bha0K", "trigger_id": "9432666376548.8696715278258.81d7a09c4f6e599db93cedfa24ca312d"}, "msg": "In remove task utils"}
+
+# [ INFO ] | {"params": {"token": "rqybfVYfujAk67qmr6Hgl6Mn", "team_id": "T08LGM1867L", "team_domain": "mcposs", "channel_id": "D09984G6BDL", "channel_name": "directmessage", "user_id": "U08LGM18C7L", "user_name": "chitranshsanjay", "command": "/done", "text": "i have meet with Madan in sep 25", "api_app_id": "A09A2B9ADDW", "is_enterprise_install": "false", "response_url": "https://hooks.slack.com/commands/T08LGM1867L/9432666364852/1iqlMXOyIUnE5cYdYL2bha0K", "trigger_id": "9432666376548.8696715278258.81d7a09c4f6e599db93cedfa24ca312d"}, "msg": "In create_user_and_channel utils"}
+
+# [ INFO ] | {"response_type": "in_channel", "text": "Removed TODO for 'i have meet with Madan in sep 25'."}
+
+# [ INFO ] | {"params": {"token": "rqybfVYfujAk67qmr6Hgl6Mn", "team_id": "T08LGM1867L", "team_domain": "mcposs", "channel_id": "D09984G6BDL", "channel_name": "directmessage", "user_id": "U08LGM18C7L", "user_name": "chitranshsanjay", "command": "/todos", "text": "", "api_app_id": "A09A2B9ADDW", "is_enterprise_install": "false", "response_url": "https://hooks.slack.com/commands/T08LGM1867L/9428081622082/fmaNZnRQcFe94fiSfVK93ddP", "trigger_id": "9428081622146.8696715278258.343c547760fa0d3a37e943067b164f87"}, "msg": "In show tasks utils"}
+
+# [ INFO ] | {"params": {"token": "rqybfVYfujAk67qmr6Hgl6Mn", "team_id": "T08LGM1867L", "team_domain": "mcposs", "channel_id": "D09984G6BDL", "channel_name": "directmessage", "user_id": "U08LGM18C7L", "user_name": "chitranshsanjay", "command": "/todos", "text": "", "api_app_id": "A09A2B9ADDW", "is_enterprise_install": "false", "response_url": "https://hooks.slack.com/commands/T08LGM1867L/9428081622082/fmaNZnRQcFe94fiSfVK93ddP", "trigger_id": "9428081622146.8696715278258.343c547760fa0d3a37e943067b164f87"}, "msg": "In create_user_and_channel utils"}
+
+# [ INFO ] | {"response_type": "in_channel", "text": "- i am  working for ask bot to add list and complete by monday\n- james  need to review"}
+
